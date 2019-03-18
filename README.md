@@ -6,9 +6,31 @@
 ## Current Week Pairings
 
 ## No pairing in week 1 
-Pairing will start in Week 2! 
+Pairing assignments will be posted March 19th! 
 
 ## Assignments
+
+### Week 2: March 18, 2019
+#### This week's focus: Object Oriented Programming
+#### By the end of this week, you should be able to:
+- Define a class
+- Create an instance(object) from a class
+- Define an initialize method and know the lifecycle of an object
+- Create reader and writer methods
+- Create instance methods and instance variables
+- Create class methods and class variables
+- Understand what self is in a class method vs an instance method
+
+1. Object Oriented Ruby: Intro to Object Orientation
+2. Object Oriented Ruby: Classes and Instances
+3. Object Oriented Ruby: Instance Methods
+4. Object Oriented Ruby: Object Properties
+5. Object Oriented Ruby: Object Lifecycle
+6. BONUS: Object Oriented Ruby: Object Orientation Review
+7. Object Oriented Ruby: Object’s Self
+8. Object Oriented Ruby: Class Variables and Methods
+9. Object Oriented Ruby: Object Models
+10. Object Oriented Ruby: Object Labs
 
 ### Week 1: March 11, 2019
 #### This week's focus: Pre-Work Review / Ruby Fundamentals
