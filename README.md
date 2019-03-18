@@ -5,8 +5,27 @@
 
 ## Current Week Pairings
 
-## No pairing in week 1 
-Pairing assignments will be posted March 19th! 
+## Pair Programming Assignments
+### Assignment: Class Variables and Methods lab
+
+Please note the lab to pair on as well as your assigned pair below. Reach out to the student via slack to coordinate a date and time to pair on the lab. The understanding is that you may be behind or ahead of the assigned lab, but that is ok. Since we have an odd number, there will be a grouping of three students every week.
+
+If you haven't already, take some time to view this [short video](https://www.youtube.com/watch?v=YhV4TaZaB84) on how to pair program. 
+
+### Pairs
+
+|      1      |      2      |      3      |
+|-------------|-------------|-------------|
+| Gitangali   | Brandon     | Joy         |
+| Alberto     | Ariel       |             |
+| Darren      | David       |             |
+| Katie       | Daniel S    |             |
+| Sachin      | Sam         |             |
+| Audra       | Fabien      |             |
+| Kyle        | Dan         |             |
+| Zon Lee     | Annie       |             |
+| Charlotte   | Eric        |             |
+
 
 ## Assignments
 
