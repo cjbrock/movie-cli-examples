@@ -6,7 +6,7 @@
 ## Current Week Pairings
 
 ## Pair Programming Assignments
-### Assignment: Class Variables and Methods lab
+### Assignment: [Class Variables and Methods lab](https://learn.co/tracks/online-software-engineering-full-time/object-oriented-ruby/class-variables-and-methods/class-variables-and-methods)
 
 Please note the lab to pair on as well as your assigned pair below. Reach out to the student via slack to coordinate a date and time to pair on the lab. The understanding is that you may be behind or ahead of the assigned lab, but that is ok. Since we have an odd number, there will be a grouping of three students every week.
 
