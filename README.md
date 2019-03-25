@@ -6,28 +6,45 @@
 ## Current Week Pairings
 
 ## Pair Programming Assignments
-### Assignment: [Class Variables and Methods lab](https://learn.co/tracks/online-software-engineering-full-time/object-oriented-ruby/class-variables-and-methods/class-variables-and-methods)
+### Assignment: [OO Triangle](https://learn.co/tracks/online-software-engineering-full-time/object-oriented-ruby/metaprogramming/oo-triangle)
 
-Please note the lab to pair on as well as your assigned pair below. Reach out to the student via slack to coordinate a date and time to pair on the lab. The understanding is that you may be behind or ahead of the assigned lab, but that is ok. Since we have an odd number, there will be a grouping of three students every week.
+Feel free to pair on more than one lab! This is a great opportunity to talk about your project ideas and what you are thinking about working on. 
 
-If you haven't already, take some time to view this [short video](https://www.youtube.com/watch?v=YhV4TaZaB84) on how to pair program. 
+Pair programming [video](https://www.youtube.com/watch?v=YhV4TaZaB84) 
 
 ### Pairs
 
-|      1      |      2      |      3      |
-|-------------|-------------|-------------|
-| Gitangali   | Brandon     | Joy         |
-| Alberto     | Ariel       |             |
-| Darren      | David       |             |
-| Katie       | Daniel S    |             |
-| Sachin      | Sam         |             |
-| Audra       | Fabien      |             |
-| Kyle        | Dan         |             |
-| Zon Lee     | Annie       |             |
-| Charlotte   | Eric        |             |
+|      1      |      2      |
+|-------------|-------------|
+| Gitangali   | Joy         |
+| Alberto     | Ariel       |
+| Darren      | David       |
+| Katie       | Daniel S    |
+| Sachin      | Sam         |
+| Audra       | Brandon     |
+| Kyle        | Dan         |
+| Zon Lee     | Annie       |
+| Charlotte   | Eric        |
 
 
 ## Assignments
+
+### Week 3: March 25, 2019
+#### This week's focus: Object Relationships
+#### By the end of this week, you should be able to:
+- Create belongs to / has many relationships
+- Create has many / has many relationships
+- Create has many through relationships
+- Use metaprogramming in their classes
+- Use a scraper to get data
+
+1. Object Oriented Ruby: Object Relationships
+2. Object Oriented Ruby: Object Architecture
+3. BONUS: Object Oriented Ruby: Video Review of OO Ruby
+4. Object Oriented Ruby: Metaprogramming
+5. Object Oriented Ruby: Scraping
+6. Object Oriented Ruby: Final Projects - Complete through Student Scraper
+7. BONUS: Object Oriented Ruby: Final Projects - TTT w AI
 
 ### Week 2: March 18, 2019
 #### This week's focus: Object Oriented Programming
